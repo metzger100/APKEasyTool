@@ -5,7 +5,7 @@ Use Visual Studio 2019 or above to use these projects. Projects are based on C#
 
 You can continue to develop APK Easy Tool under the same name, just make sure you give credit to **original author (Evildog1)**
 
-**His [last Message](https://forum.xda-developers.com/t/discontinued-windows-apk-easy-tool-v1-60-2022-06-23.3333960/post-87061109) to the Project**
+# His [last Message](https://forum.xda-developers.com/t/discontinued-windows-apk-easy-tool-v1-60-2022-06-23.3333960/post-87061109) to the Project**
 
 After 6 years, it has to be sadly announced that the project has been discontinued due to the changes my personal life, and lost the movitation to continue this project. I don't have the opportunity to get back to working on this anymore
 
