@@ -1,4 +1,4 @@
-# APKEasyTool-
+# APKEasyTool
 **Source Code Mirror for APKEasyTool by evildog1 from XDA**
 
 Use Visual Studio 2019 or above to use these projects. Projects are based on C#
