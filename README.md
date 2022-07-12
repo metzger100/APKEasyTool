@@ -5,6 +5,8 @@ Use Visual Studio 2019 or above to use these projects. Projects are based on C#
 
 You can continue to develop APK Easy Tool under the same name, just make sure you give credit to **original author (Evildog1)**
 
+_His last Message to the Project_
+
 After 6 years, it has to be sadly announced that the project has been discontinued due to the changes my personal life, and lost the movitation to continue this project. I don't have the opportunity to get back to working on this anymore
 
 Due to what happens with Android (Split APK/Android App Bundle, APK protections, Play Protect, system restrictions...) I decided to finish my Android journey right here. It was a nice experience, but not anymore.
